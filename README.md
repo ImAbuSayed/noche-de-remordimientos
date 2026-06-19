@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-remordimientos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Noche de remordimientos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-remordimientos/) |
+| **Get License** | [Request Licensing for Noche de remordimientos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-remordimientos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3705)
+- [Telegram](https://t.me/AbuSayedMusic/3709)
 
 ---
 
