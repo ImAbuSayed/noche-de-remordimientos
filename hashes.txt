@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de remordimientos
+
+This log tracks the cryptographic history and versioning for the song **Noche de remordimientos** (noche-de-remordimientos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:23:38.065863 | `v1` | `391f05a0833be2b6907164e36a1ad1dd215115153a6879abd8b8c683a374cedf` | `7b0db37bdf55a5c20c277a09c45b3bb117d47763c6ccdfc410b38be846e8c841` | `2026-06-20_noche-de-remordimientos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
