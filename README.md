@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Noche de remordimientos |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-remordimientos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de remordimientos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-remordimientos/) |
+| **Get License** | [Request Licensing for Noche de remordimientos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-remordimientos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> La luna brilla y yo sigo pensando en tu piel
-> Esta noche de remordimientos sabe a miel
-> Ven aquí y apaga toda esta inmensa sed
-> Bailando suave en la oscuridad, pegados a la pared
+> Yeah-yeah, the night is calling out your name
+> Your silhouette is burning in the flame
+> One touch and I forget about the shame
+> This city knows we'll never be the same
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
